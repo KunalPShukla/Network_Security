@@ -48,6 +48,7 @@ MODEL_TRAINER_OVER_FITTING_UNDER_FITTING_THRESOLD:float=0.05
 SAVED_MODEL_DIR=os.path.join("saved_models")
 MODEL_FILE_NAME="model.pkl"
 
+TRAINING_BUCKET_NAME="kunalawsbucketns"
 
 
 
